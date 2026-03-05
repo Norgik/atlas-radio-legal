@@ -1,11 +1,13 @@
-# Terms of Use – Atlas Radio
+# Privacy Policy – Atlas Radio
 
-Atlas Radio provides access to publicly available internet radio streams.
+Atlas Radio does not collect, store, or share personal data.
 
-All streaming content is provided by third-party radio stations. The developer does not control or guarantee the availability, accuracy, or content of these streams.
+The application does not use analytics, tracking frameworks, or advertising SDKs.
 
-Atlas Radio is provided "as is" without warranties of any kind.
+Atlas Radio only provides access to publicly available internet radio streams operated by third-party radio stations.
 
-The developer is not responsible for interruptions, changes in stream availability, or content transmitted by third-party radio stations.
+The app does not require user accounts and does not collect personal identifiers.
 
-By using the application, you agree to these terms.
+Streaming content is delivered directly from third-party radio servers.
+
+If you have questions regarding this privacy policy, please contact the developer.
