@@ -1,8 +1,8 @@
-# Atlas Radio — Privacy Policy
+# Bølge — Privacy Policy
 
 **Last updated:** April 2026
 
-Atlas Radio does not collect personal data such as name, email, or contacts. The app does not require user accounts.
+Bølge does not collect personal data such as name, email, or contacts. The app does not require user accounts.
 
 Streaming content is delivered from third-party radio stations.
 
@@ -17,7 +17,7 @@ The app streams public radio stations and may load public news feeds (RSS). Thir
 ## Third-Party Services
 
 The app may use third-party services for:
-- Advertising (e.g., Google AdMob)
+- 
 - Content delivery (radio streams, RSS)
 
 Each provider may have its own privacy policy.
@@ -33,6 +33,6 @@ We do not sell personal data.
 ## Source
 
 This file is the canonical markdown for the policy. The formatted page for the app is published at:  
-<https://norgik.github.io/atlas-radio-legal/privacy.html>
+<https://norgik.github.io/bolge-legal/privacy.html>
 
-Repository: <https://github.com/Norgik/atlas-radio-legal>
+Repository: <https://github.com/Norgik/bolge-legal>
