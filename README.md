@@ -1,15 +1,17 @@
-# Bølge Legal
+# Bølge — Legal
 
-Legal pages for the [Bølge](https://github.com/Norgik/bolge) iOS app.
+Legal pages for the **Bølge** iOS app.
 
 ## Published (GitHub Pages)
 
-- **Privacy Policy:** <https://norgik.github.io/bolge-legal/privacy.html>  
-  (source: [`privacy.md`](privacy.md), [`privacy.html`](privacy.html))
-- **Terms of Use:** see [`terms.md`](terms.md) (publish a `terms.html` if you expose Terms in-app).
+- [Privacy Policy](https://norgik.github.io/atlas-radio-legal/privacy.html)
+- [Terms of Use](https://norgik.github.io/atlas-radio-legal/terms.md)
+- [Support](https://norgik.github.io/atlas-radio-legal/support.html)
 
 ## Repository
 
-- <https://github.com/Norgik/bolge-legal>
+https://github.com/Norgik/atlas-radio-legal
 
-Keep **`privacy.md`**, **`privacy.html`**, and the app repo **`docs/privacy-policy.md`** aligned when you change policy text.
+## Note
+
+Keep `privacy.md` and `privacy.html` aligned when updating policy text.
