@@ -22,17 +22,11 @@ The app may use third-party services for:
 
 Each provider may have its own privacy policy.
 
-## Advertising
-
-The app may display ads from third-party providers such as Google AdMob.
-
-These providers may collect limited technical data (e.g. device identifiers, IP address, app interactions, approximate location) for ad delivery, performance measurement, fraud prevention, and analytics.
-
 We do not sell personal data.
 
 ## Source
 
 This file is the canonical markdown for the policy. The formatted page for the app is published at:  
-<https://norgik.github.io/bolge-legal/privacy.html>
+<https://norgik.github.io/atlas-radio-legal/privacy.html>
 
-Repository: <https://github.com/Norgik/bolge-legal>
+Repository: <https://github.com/Norgik/atlas-radio-legal>
