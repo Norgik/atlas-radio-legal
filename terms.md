@@ -1,18 +1,16 @@
-# Terms of Use – Bølge
+# Bølge — Terms of Use
 
-_Last updated: May 2026_
+**Last updated:** May 2026
 
 Bølge provides access to publicly available internet radio streams.
 
-All streaming content is provided by third-party radio stations. The developer does not control or guarantee stream availability or accuracy.
+All streaming content is provided by third-party radio stations. The developer does not control, host, proxy, or rebroadcast any audio streams and does not guarantee stream availability or accuracy.
 
 ## Content and Third-Party Streams
 
-Bølge provides access to publicly available radio streams for listening and real-time text transcription.
+All audio content is owned and provided by third-party broadcasters. Bølge acts solely as a client interface to publicly accessible broadcasts. All rights remain with the respective content owners.
 
-All audio content is owned and provided by third-party broadcasters. Bølge does not host, store, rebroadcast, or control any audio streams.
-
-The app functions as a client interface to publicly accessible broadcasts. All rights remain with the respective content owners.
+The app may process audio in real time to generate text-based transcriptions for accessibility purposes. No audio content is stored, archived, or made available for replay.
 
 Bølge is provided "as is" without warranties of any kind.
 
