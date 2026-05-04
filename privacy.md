@@ -24,7 +24,7 @@ The app may process audio locally on the user's device to provide live transcrip
 
 Audio processing uses Apple's system speech recognition frameworks. In the App Store version, no audio data from radio streams is sent to servers operated by Bølge or the developer for transcription.
 
-Speech recognition may involve Apple services and is subject to Apple's Privacy Policy, depending on your device settings.
+Speech recognition may involve Apple services and is subject to Apple's Privacy Policy, depending on your device and settings.
 
 The app does not record or store raw audio from radio streams.
 
@@ -46,7 +46,7 @@ We do not sell, share, or monetize personal data.
 
 ## Contact
 
-If you have questions about this policy, you can contact the developer via the project repository:
+For questions about this policy, please visit:
 
 https://github.com/Norgik/atlas-radio-legal
 
